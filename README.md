@@ -15,6 +15,7 @@ A Streamlit-based web application that predicts the likelihood of **Diabetes**, 
   python -m pip install -r requirements.txt
 
 ▶️ How to Run
+
 1 Clone the repository:
   git clone https://github.com/your-username/multiple-disease-prediction-ml.git
   cd multiple-disease-prediction-ml
@@ -73,5 +74,6 @@ Let me know if you'd like to add:
 - 🏷️ Badges like Python version, license, or last updated
 
 I can also help you write a crisp project summary for your portfolio site or LinkedIn.
+
 
 
